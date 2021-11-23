@@ -1,0 +1,19 @@
+.keypad{
+    margin: 20px;
+}
+.keypad-container,.keypad-history{
+    margin: 100px;
+    padding-left: 22%;
+}
+.keypad-history{
+    border-style:solid;
+    border-width: thin;
+    border-radius: 6px;
+    width: 32%;
+}
+button{
+    margin: 1px;
+    line-height: 2em;
+    width: 2em;
+    padding: 2px;
+}
